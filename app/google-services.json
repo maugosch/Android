@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "71581245956",
+    "firebase_url": "https://myfirebasefinapp.firebaseio.com",
+    "project_id": "myfirebasefinapp",
+    "storage_bucket": "myfirebasefinapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71581245956:android:96a1a723a9c8750f",
+        "android_client_info": {
+          "package_name": "com.example.sony.androidproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71581245956-5048dv7t6q200s23bjeljo4kjf49b9jh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPWoG-DONyFpYxRu4yEeSPu0WoZ7B7-UA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
